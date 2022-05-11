@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bryce Stabenow</h1>
+<p align="center">
+<img src="https://i.ibb.co/J5pr4ZB/cover.png">
+</p>
+  <h1>Hi, I'm Bryce Stabenow</h1>
 <h3 align="center">A software engineer from Mesa, AZ</h3>
 
 - 🌱 I’m currently learning **Typescript and Remix.js**
