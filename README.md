@@ -25,3 +25,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bryce-Stabenow&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### Check Out My Latest Project!
+
+<img src="https://github.com/Bryce-Stabenow/Doormat/blob/2980bca5e335cf885e69d11cac28c37f11bfecd1/Doormat%20Preview.gif" width="500" height="auto" />
