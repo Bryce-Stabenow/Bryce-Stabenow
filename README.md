@@ -4,7 +4,7 @@
   <h1>Hi, I'm Bryce Stabenow</h1>
 <h3 align="center">A software engineer from Mesa, AZ</h3>
 
-- 🌱 I’m currently learning **Typescript and Remix.js**
+- 🌱 I’m currently learning **Next.js and Remix.js**
 
 - 👨‍💻 All of my projects are available at [https://brycestabenow.netlify.app/](https://brycestabenow.netlify.app/)
 
