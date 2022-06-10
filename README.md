@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/J5pr4ZB/cover.png">
 </p>
   <h1>Hi, I'm Bryce Stabenow</h1>
-<h3 align="center">A software engineer from Mesa, AZ</h3>
+<h3 align="center">A software engineer and QA managerfrom Mesa, AZ</h3>
 
 - 🌱 I’m currently learning **Next.js and Remix.js**
 
