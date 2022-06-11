@@ -4,7 +4,7 @@
   <h1>Hi, I'm Bryce Stabenow</h1>
 <h3 align="center">A software engineer and QA manager from Mesa, AZ.</h3>
 
-- 🌱 I’m currently learning **Next.js and Remix.js**
+- 🌱 I’m currently learning **Vue.js and PHP Laravel**
 
 - 👨‍💻 All of my projects are available at [https://brycestabenow.netlify.app/](https://brycestabenow.netlify.app/)
 
