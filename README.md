@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brycestabenow.netlify.app/](https://brycestabenow.netlify.app/)
 
-- 💬 Ask me about **React, Node, and Web Design**
+- 💬 Ask me about **Vue, Tailwind, Laravel, and Web Design**
 
 - 📫 How to reach me **brycestabenow617@gmail.com**
 
