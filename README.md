@@ -1,9 +1,7 @@
 <h1>Hi, I'm Bryce Stabenow</h1>
-<h3 align="center">A software engineer and QA manager from Mesa, AZ.</h3>
+<h3 align="center">A software engineer and QA manager from St. Louis, MO.</h3>
 
-- 🌱 I’m currently learning **C# and Svelte/SvelteKit**
-
-- 👨‍💻 All of my projects are available at [https://brycestabenow.netlify.app/](https://brycestabenow.netlify.app/)
+- 🌱 I’m currently working with **C# and Svelte/SvelteKit**
 
 - 💬 Ask me about **Vue, Tailwind, Laravel, and Web Design**
 
