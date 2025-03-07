@@ -1,5 +1,5 @@
 <h1>Hi, I'm Bryce Stabenow</h1>
-<h3 align="center">A software engineer and QA manager from St. Louis, MO.</h3>
+<h3 align="center">A software engineer + dev manager from St. Louis, MO.</h3>
 
 - 📚 My current side projects are using **C#, Svelte/SvelteKit, Astro, and Rust 🦀**
   
