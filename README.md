@@ -3,9 +3,10 @@
 
 - I'm currently working as the Director of Web Development at iVisa.
 
+- 🔭 **Typescript, PHP, Vue, Tailwind, and Laravel**
+
 - 📚 My current side projects are using **C#, Svelte/SvelteKit, Astro, and Rust 🦀**
   
-- 🔭 I’m currently working with **Typescript, PHP, Vue, Tailwind, and Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
