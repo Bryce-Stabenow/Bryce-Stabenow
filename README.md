@@ -1,11 +1,11 @@
 <h1>Hi, I'm Bryce Stabenow</h1>
 <h3 align="center">A software engineer + dev manager from St. Louis, MO.</h3>
 
+- I'm currently working as the Director of Web Development at iVisa.
+
 - 📚 My current side projects are using **C#, Svelte/SvelteKit, Astro, and Rust 🦀**
   
-- 🔭 I’m currently working with **PHP, Vue, Tailwind, and Laravel**
-
-- 📫 How to reach me **brycestabenow617@gmail.com**
+- 🔭 I’m currently working with **Typescript, PHP, Vue, Tailwind, and Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
